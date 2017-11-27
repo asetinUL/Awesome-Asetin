@@ -84,6 +84,7 @@ Made with love for the members of ASETIN, University Laval, Québec City.
 - [Smoothly Blend Image Patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches) - Make fancy predictions when analyzing satellite images.
 - [CNN CIFAR 100](https://github.com/Vooban/Hyperopt-Keras-CNN-CIFAR-100) - Optimize a humonguous neural network automatically: a tutorial.
 - [Signal Prediction](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) - Interactive exercises to learn to predict signal with neural networks [[WAQ 2017 slides: start here](https://www.slideshare.net/webaquebec/guillaume-chevalier-deep-learning-avec-tensor-flow)].
+- [MonPortail API](https://github.com/AntoineGagne/monportail-api) - API for https://monportail.ulaval.ca
 
 
 <a name="research" />
